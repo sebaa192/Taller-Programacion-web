@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\viewmodel\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\viewmodel\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\almacen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\almacen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CuentasController.cs",
+              "RelativeDocumentMoniker": "almacen\\Controllers\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CuentasController.cs",
+              "RelativeToolTip": "almacen\\Controllers\\CuentasController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwE4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:42:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "almacen\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "almacen\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:59:21.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "almacen\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "almacen\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:42:24.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "almacen\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "almacen\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:42:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "almacen\\Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "almacen\\Views\\Productos\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAEBVwB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T01:42:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\ViewModel\\ProductoViewModel.cs",
+              "RelativeDocumentMoniker": "almacen\\ViewModel\\ProductoViewModel.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\ViewModel\\ProductoViewModel.cs",
+              "RelativeToolTip": "almacen\\ViewModel\\ProductoViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wBAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:42:24.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "almacen.csproj",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\almacen.csproj",
+              "RelativeDocumentMoniker": "almacen\\almacen.csproj",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\almacen.csproj",
+              "RelativeToolTip": "almacen\\almacen.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:42:24.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
