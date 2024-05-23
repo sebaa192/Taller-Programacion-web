@@ -20,7 +20,7 @@ namespace almacen.Controllers
         }
 
         // GET: Clientes
-        [Authorize(Roles = "User")]
+        //[Authorize(Roles = "User")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Clientes.ToListAsync());

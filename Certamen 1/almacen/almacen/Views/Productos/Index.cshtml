@@ -1,4 +1,4 @@
-﻿@model List<almacen.ViewModel.ProductoListViewModel>
+﻿@model ProductoModel
 
 @{
     ViewData["Title"] = "Index";
@@ -9,45 +9,39 @@
 <p>
     <a asp-action="Create">Nuevo Producto</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-               nombre
-            </th>
-            <th>
-                precio
-            </th>
-            <th>
-               imagen
-            </th>
-            <th>
-                categoria
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.precio)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.imagen)
-            </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.NombreCategoria)
-                </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.id">Editar</a> |
-                <a asp-action="Details" asp-route-id="@item.id">Detalle</a> |
-                <a asp-action="Delete" asp-route-id="@item.id">Eliminar</a>
-            </td>
-        </tr>
+
+<p>
+    <input type="text" id="search" placeholder="Buscar producto" onkeyup="buscarProductos()"/>
+</p>
+
+<div id="productosList">
+
+    <partial name="_ProductosList" model="Model"></partial>
+
+</div>
+
+@section Scripts {
+
+    <script>
+
+        function buscarProductos() {
+            let texto = document.getElementById('search').value;
+            fetch(`@Url.Action("Index", "Productos")?search=${encodeURIComponent(texto)}&tipo=1`)
+                .then(response => response.text())
+                .then(html => {
+                    document.getElementById("productosList").innerHTML = html;
+                })
+                .catch(error => console.error("error"));
+        }
+
+    </script>
 }
-    </tbody>
-</table>
+
+
+
+
+
+
+
+
+            

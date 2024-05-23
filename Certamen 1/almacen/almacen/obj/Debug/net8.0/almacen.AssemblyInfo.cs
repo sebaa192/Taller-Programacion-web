@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("almacen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e26609f5d35ba31c1094361580e4e51b105d00c")]
 [assembly: System.Reflection.AssemblyProductAttribute("almacen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("almacen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

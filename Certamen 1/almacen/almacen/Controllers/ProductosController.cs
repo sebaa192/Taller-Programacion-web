@@ -21,12 +21,37 @@ namespace almacen.Controllers
         }
 
         // GET: Productos
-        [Authorize(Roles ="User")]
-        public async Task<IActionResult> Index()
+        //[Authorize(Roles ="User")]
+        public async Task<IActionResult> Index(string search = "", int page = 1, int tipo = 0)
         {
+
+            const int PageSize = 4;
+
+
+
             List<ProductoListViewModel> productos = new List<ProductoListViewModel>();
-            var productosdb = await _context.Productos.ToListAsync();
-            if(productosdb!=null)
+
+            var query = search == "" ? await _context.Productos.ToListAsync() : await _context.Productos.Where(p => p.nombre.Contains(search)).ToListAsync();
+
+            var totalProductos = query.Count();
+
+            var productosdb = query
+                .OrderBy(x => x.id).Skip((page - 1) * PageSize)
+                .Take(PageSize)
+                .ToList();
+
+            var pageInfo = new PageInfo
+            {
+
+                paginaActual = page,
+                itemsPagina = PageSize,
+                totalItems = totalProductos,
+
+
+
+            };
+
+            if (productosdb != null)
             {
                 foreach (var item in productosdb)
                 {
@@ -34,13 +59,24 @@ namespace almacen.Controllers
                     p.id = item.id;
                     p.nombre = item.nombre;
                     p.precio = item.precio;
-                    p.imagen=item.imagen;
-                    p.idCategoria= item.idCategoria;
+                    p.imagen = item.imagen;
+                    p.idCategoria = item.idCategoria;
                     p.NombreCategoria = _context.Categorias.Where(x => x.id == item.idCategoria).Select(x => x.nombre).FirstOrDefault();
                     productos.Add(p);
                 }
             }
-            return View(productos);
+
+            ProductoModel pro = new ProductoModel();
+
+            pro.productos = productos;
+            pro.pageInfo = pageInfo;
+            pro.buscar = search;
+
+            if (tipo==1)
+            {
+                return PartialView("_ProductosList",pro);
+            }
+            return View(pro);
         }
 
         // GET: Productos/Details/5

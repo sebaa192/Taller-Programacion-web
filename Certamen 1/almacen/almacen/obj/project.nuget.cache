@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gm0ym+XSrQXrmfmXKyCPMntA9qw2q5oSo28UoCTDV6rptGuAQXzb/iRxiJHhzMs95a/rLLequM13X/ra145VZA==",
+  "dgSpecHash": "+AmyY8WDrnLKTBKj+czYTRm/oxvcX32q10fdEszFG3F0v+TaURkc+dNXUDEGm4bGHTOQpmsdehS33aGEayUEfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\almacen.csproj",
+  "projectFilePath": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\almacen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sbach\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Sbach\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|c:\\users\\sbach\\onedrive\\escritorio\\mvcc#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\controllers\\direccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|solutionrelative:trabajo2\\controllers\\direccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|c:\\users\\sbach\\onedrive\\escritorio\\mvcc#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\controllers\\contactoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|solutionrelative:trabajo2\\controllers\\contactoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|c:\\users\\sbach\\onedrive\\escritorio\\mvcc#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\views\\direcciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|solutionrelative:trabajo2\\views\\direcciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|c:\\users\\sbach\\onedrive\\escritorio\\mvcc#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\views\\contactoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|solutionrelative:trabajo2\\views\\contactoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|c:\\users\\sbach\\onedrive\\escritorio\\mvcc#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|solutionrelative:trabajo2\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|c:\\users\\sbach\\onedrive\\escritorio\\mvcc#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|solutionrelative:trabajo2\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|c:\\users\\sbach\\onedrive\\escritorio\\mvcc#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DE6C184-FE6F-47F0-B818-45A3689FBE8D}|trabajo2\\trabajo2.csproj|solutionrelative:trabajo2\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Contactoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "trabajo2\\Views\\Contactoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Contactoes\\Create.cshtml",
+              "RelativeToolTip": "trabajo2\\Views\\Contactoes\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:39:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Direcciones\\Create.cshtml",
+              "RelativeDocumentMoniker": "trabajo2\\Views\\Direcciones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Direcciones\\Create.cshtml",
+              "RelativeToolTip": "trabajo2\\Views\\Direcciones\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:59:39.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DireccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Controllers\\DireccionesController.cs",
+              "RelativeDocumentMoniker": "trabajo2\\Controllers\\DireccionesController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Controllers\\DireccionesController.cs",
+              "RelativeToolTip": "trabajo2\\Controllers\\DireccionesController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:50:10.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Controllers\\ContactoesController.cs",
+              "RelativeDocumentMoniker": "trabajo2\\Controllers\\ContactoesController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Controllers\\ContactoesController.cs",
+              "RelativeToolTip": "trabajo2\\Controllers\\ContactoesController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwGMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:50:42.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "trabajo2\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "trabajo2\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T23:39:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "trabajo2\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Models\\Contacto.cs",
+              "RelativeToolTip": "trabajo2\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:38:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "trabajo2\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\MVCC#\\trabajo profe\\trabajo2\\trabajo2\\trabajo2\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "trabajo2\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T05:06:40.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

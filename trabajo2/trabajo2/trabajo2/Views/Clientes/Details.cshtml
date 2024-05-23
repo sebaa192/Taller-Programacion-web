@@ -1,0 +1,169 @@
+﻿@model trabajo2.Models.Cliente
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center">Detalle Cliente</h1>
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Apellido)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+    </dl>
+</div>
+<h3 class="text-center p-4"> Listado Contacto</h3>
+<a class="btn btn-success btn-sm" asp-action="Create" asp-controller="Contactoes" asp-route-id="@Model.ClienteId" >Nuevo contacto</a>
+
+
+<!-- Modal -->
+<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Contacto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>           
+                <form action="/Contactoes/guardarContacto" method="post">
+                <div class="modal-body">
+                    <input type="hidden" name="ContactoId"  />
+                    <input type="hidden" name="ClienteId" />
+                    <div class="form-group">
+                        <label>nombre</label>
+                        <input type="text" class="form-control" name="nombre" id="nombre"/>
+                    </div>
+                    <div class="form-group">
+                        <label>telefono</label>
+                        <input type="text" class="form-control" name="telefono" id="telefono" />
+                    </div>
+                    <div class="form-group">
+                        <label>email</label>
+                        <input type="email" class="form-control" name="email" id="email" />
+                    </div>
+
+                </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary btn-sm" data-dismiss="modal" onclick="cerrarModal()">Cerrar</button>
+                        <button type="submit" class="btn btn-primary btn-sm" onclick="cerrarModal()">Guardar</button>
+                    </div>
+                 </form>            
+            
+        </div>
+    </div>
+</div>
+
+
+<table class="table bordered bordered-1 text-center">
+    <thead>
+        <tr>
+            <th>
+                nombre
+            </th>
+            <th>
+                telefono
+            </th>
+            <th>
+                email
+            </th>
+           
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Contactos)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                 <td>
+                    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.ContactoId">Editar</a>
+
+                    <a class="btn btn-danger btn-sm" asp-action="DeleteContacto" asp-route-idContacto="@item.ContactoId" asp-route-idCliente="@Model.ClienteId">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3 class="text-center p-4"> Listado Direcciones</h3>
+<a class="btn btn-success btn-sm " asp-action="Create" asp-controller="Direcciones" asp-route-id="@Model.ClienteId">Nueva direccion </a>
+<table class="table bordered bordered-1 text-center">
+    <thead>
+        <tr>
+            <th>
+                calle
+            </th>
+            <th>
+                Ciudad
+            </th>
+            <th>
+                estado
+            </th>
+
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Direcciones)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Calle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ciudad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estado)
+                </td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.DireccionId">Editar</a>
+
+                    <a class="btn btn-danger btn-sm" asp-action="DeleteContacto" asp-route-idContacto="@item.DireccionId" asp-route-idCliente="@Model.ClienteId">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ClienteId">Edit</a> |
+    <a asp-action="Index">Volver a lista Cliente</a>
+</div>
+<script>
+
+    function agregarContacto(){
+        $('#modal').modal('show');
+    }
+    function cerrarModal() {
+        $('#modal').modal('hide');
+    }
+
+</script>

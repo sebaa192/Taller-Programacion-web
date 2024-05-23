@@ -1,34 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\",
+  "WorkspaceRootPath": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\viewmodel\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\views\\productos\\_productoslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\views\\productos\\_productoslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\helpers\\htmlhelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\helpers\\htmlhelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\models\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\models\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\viewmodel\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\viewmodel\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\taller programacion web\\certamen 1\\almacen\\almacen\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|c:\\users\\sbach\\onedrive\\escritorio\\certamen 1 entrega completa\\almacen\\almacen\\almacen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8D6FCDB4-0EF5-43C3-B7A1-A9E2F6413C00}|almacen\\almacen.csproj|solutionrelative:almacen\\almacen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +58,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CuentasController.cs",
-              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CuentasController.cs",
-              "RelativeDocumentMoniker": "almacen\\Controllers\\CuentasController.cs",
-              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CuentasController.cs",
-              "RelativeToolTip": "almacen\\Controllers\\CuentasController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAkwE4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T01:42:24.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "almacen\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "almacen\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T01:59:21.063Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "almacen\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "almacen\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T20:12:51.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "HtmlHelperExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Helpers\\HtmlHelperExtensions.cs",
+              "RelativeDocumentMoniker": "almacen\\Helpers\\HtmlHelperExtensions.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Helpers\\HtmlHelperExtensions.cs",
+              "RelativeToolTip": "almacen\\Helpers\\HtmlHelperExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:54:16.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ProductosList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Productos\\_ProductosList.cshtml",
+              "RelativeDocumentMoniker": "almacen\\Views\\Productos\\_ProductosList.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Productos\\_ProductosList.cshtml",
+              "RelativeToolTip": "almacen\\Views\\Productos\\_ProductosList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T01:59:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "almacen\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "almacen\\Controllers\\ProductosController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T01:42:24.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "almacen\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "almacen\\Controllers\\CategoriasController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T01:42:24.12Z",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "almacen\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "almacen\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T03:57:19.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Views\\Productos\\Create.cshtml",
-              "RelativeDocumentMoniker": "almacen\\Views\\Productos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\Views\\Productos\\Create.cshtml",
-              "RelativeToolTip": "almacen\\Views\\Productos\\Create.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAEBVwB8AAAAzAAAA",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "almacen\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "almacen\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T01:42:24.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\ViewModel\\ProductoViewModel.cs",
-              "RelativeDocumentMoniker": "almacen\\ViewModel\\ProductoViewModel.cs",
-              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\ViewModel\\ProductoViewModel.cs",
-              "RelativeToolTip": "almacen\\ViewModel\\ProductoViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA5wBAAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T01:42:24.131Z"
+              "WhenOpened": "2024-05-06T03:42:57.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "almacen.csproj",
-              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\almacen.csproj",
-              "RelativeDocumentMoniker": "almacen\\almacen.csproj",
-              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Certamen 1 Entrega completa\\almacen\\almacen\\almacen.csproj",
-              "RelativeToolTip": "almacen\\almacen.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T01:42:24.139Z"
+              "Title": "ProductoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Models\\ProductoModel.cs",
+              "RelativeDocumentMoniker": "almacen\\Models\\ProductoModel.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Models\\ProductoModel.cs",
+              "RelativeToolTip": "almacen\\Models\\ProductoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:37:26.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\appsettings.json",
+              "RelativeDocumentMoniker": "almacen\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\appsettings.json",
+              "RelativeToolTip": "almacen\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T14:30:19.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Controllers\\CuentasController.cs",
+              "RelativeDocumentMoniker": "almacen\\Controllers\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Controllers\\CuentasController.cs",
+              "RelativeToolTip": "almacen\\Controllers\\CuentasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:22:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Models\\PageInfo.cs",
+              "RelativeDocumentMoniker": "almacen\\Models\\PageInfo.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Models\\PageInfo.cs",
+              "RelativeToolTip": "almacen\\Models\\PageInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:59:01.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "almacen\\Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "almacen\\Views\\Productos\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAABhwB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T01:42:24.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\ViewModel\\ProductoViewModel.cs",
+              "RelativeDocumentMoniker": "almacen\\ViewModel\\ProductoViewModel.cs",
+              "ToolTip": "C:\\Users\\Sbach\\OneDrive\\Escritorio\\Taller Programacion web\\Certamen 1\\almacen\\almacen\\ViewModel\\ProductoViewModel.cs",
+              "RelativeToolTip": "almacen\\ViewModel\\ProductoViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:42:24.131Z",
+              "EditorCaption": ""
             }
           ]
         }

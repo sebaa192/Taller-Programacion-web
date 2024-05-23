@@ -1,0 +1,51 @@
+﻿@model ProductoModel
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                nombre
+            </th>
+            <th>
+                precio
+            </th>
+            <th>
+                imagen
+            </th>
+            <th>
+                categoria
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.productos)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.precio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.imagen)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCategoria)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.id">Detalle</a> |
+                    <a asp-action="Delete" asp-route-id="@item.id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    @Html.PageLinks(Model.pageInfo, pageNum => Url.Action("Index", new {page=pageNum}))
+    
+</div>
+

@@ -20,7 +20,7 @@ namespace almacen.Controllers
         }
 
         // GET: Categorias
-        [Authorize(Roles = "User")]
+       // [Authorize(Roles = "User")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Categorias.ToListAsync());
